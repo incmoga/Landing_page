@@ -1,1 +1,1 @@
-# Landing_page
+Landing_page is part of curriculum The Odin Project, website page created from a layout.
